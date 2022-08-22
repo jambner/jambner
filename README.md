@@ -1,6 +1,6 @@
-HTML/CSS/Javascript
+HTML/CSS/Javascript/C++
 
-Might try phyton later on
+Might try Kotlin/Swift later on
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jambner&theme=tokyonight)](https://git.io/streak-stats)
 
