@@ -1,6 +1,6 @@
-HTML/CSS/Javascript/C++/Java
+iOS Dev
+diff languages: JavaScript/Java/C++
 
-Might try Kotlin/Swift later on
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jambner&theme=tokyonight)](https://git.io/streak-stats)
 
